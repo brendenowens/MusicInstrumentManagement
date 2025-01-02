@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Needs repair?">b6430a5283721210712fc296feaad305</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 02:51:46</sys_created_on>
+        <sys_id>8f53461683721210712fc296feaad3b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>No</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_update_name>question_choice_8f53461683721210712fc296feaad3b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-02 02:51:46</sys_updated_on>
+        <text>No</text>
+        <value>No</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=8f53461683721210712fc296feaad3b5"/>
+</record_update>
