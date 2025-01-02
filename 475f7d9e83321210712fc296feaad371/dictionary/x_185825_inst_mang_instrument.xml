@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="347506d683721210712fc296feaad3d8" extends="cmdb_ci" label="Instrument" max_length="40" name="x_185825_inst_mang_instrument" type="collection">
+        <element choice="1" label="Key" max_length="40" name="key" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="d75f7d9e83321210712fc296feaad393" extends="sn_creatorstudio_task" label="Instrument Management Request" max_length="40" name="x_185825_inst_mang_request" type="collection"/>
+</database>

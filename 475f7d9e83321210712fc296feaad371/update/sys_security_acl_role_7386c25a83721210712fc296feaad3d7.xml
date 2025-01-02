@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 03:05:44</sys_created_on>
+        <sys_id>7386c25a83721210712fc296feaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_185825_inst_mang_woodwind_instrument.x_185825_inst_mang.agent</sys_name>
+        <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_security_acl display_value="x_185825_inst_mang_woodwind_instrument">f786c25a83721210712fc296feaad3c7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7386c25a83721210712fc296feaad3d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-02 03:05:44</sys_updated_on>
+        <sys_user_role display_value="x_185825_inst_mang.agent" name="x_185825_inst_mang.agent">f35fbd9e83321210712fc296feaad372</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

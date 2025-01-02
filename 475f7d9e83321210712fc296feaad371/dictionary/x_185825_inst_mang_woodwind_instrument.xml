@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ea86825a83721210712fc296feaad373" extends="x_185825_inst_mang_instrument" label="Woodwind Instrument" max_length="40" name="x_185825_inst_mang_woodwind_instrument" type="collection"/>
+</database>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3337069a83721210712fc296feaad352" extends="x_185825_inst_mang_instrument" label="Keyboard Instrument" max_length="40" name="x_185825_inst_mang_keyboard_instrument" type="collection"/>
+</database>

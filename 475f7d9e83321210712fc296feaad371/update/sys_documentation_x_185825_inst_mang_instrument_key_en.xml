@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="key" label="Key" language="en" table="x_185825_inst_mang_instrument">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>key</element>
+            <help/>
+            <hint/>
+            <label>Key</label>
+            <language>en</language>
+            <name>x_185825_inst_mang_instrument</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-02 03:02:51</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Key</sys_name>
+            <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+            <sys_update_name>sys_documentation_x_185825_inst_mang_instrument_key_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-02 03:02:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

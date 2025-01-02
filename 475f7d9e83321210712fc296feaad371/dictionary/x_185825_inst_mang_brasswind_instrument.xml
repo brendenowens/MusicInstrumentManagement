@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0a568a1a83721210712fc296feaad3f9" extends="x_185825_inst_mang_instrument" label="Brasswind Instrument" max_length="40" name="x_185825_inst_mang_brasswind_instrument" type="collection"/>
+</database>

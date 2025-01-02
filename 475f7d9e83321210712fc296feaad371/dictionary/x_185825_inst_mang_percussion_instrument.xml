@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="90f60e5a83721210712fc296feaad3ae" extends="x_185825_inst_mang_instrument" label="Percussion Instrument" max_length="40" name="x_185825_inst_mang_percussion_instrument" type="collection"/>
+</database>
