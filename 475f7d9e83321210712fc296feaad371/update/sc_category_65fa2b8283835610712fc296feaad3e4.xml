@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Items used by the repair technicians to manage repairs and consumable inventory</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Instument Catalog">ce892f0283835610712fc296feaad309</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 02:02:29</sys_created_on>
+        <sys_id>65fa2b8283835610712fc296feaad3e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Instrument Repair</sys_name>
+        <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_update_name>sc_category_65fa2b8283835610712fc296feaad3e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 02:02:29</sys_updated_on>
+        <title>Instrument Repair</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=65fa2b8283835610712fc296feaad3e4"/>
+</record_update>

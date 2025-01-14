@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="2b6f71de83321210712fc296feaad385" sys_domain="global" table="x_185825_inst_mang_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-02 02:34:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e76f71de83321210712fc296feaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_185825_inst_mang_request" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">2b6f71de83321210712fc296feaad385</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">236f71de83321210712fc296feaad389</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-02 02:34:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-02 02:34:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a36f71de83321210712fc296feaad398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_185825_inst_mang_request" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">2b6f71de83321210712fc296feaad385</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">236f71de83321210712fc296feaad394</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-02 02:34:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_185825_inst_mang_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-02 02:34:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b6f71de83321210712fc296feaad385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_185825_inst_mang_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2b6f71de83321210712fc296feaad385</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-02 02:34:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Instrument Management">475f7d9e83321210712fc296feaad371</application>
+        <file_path/>
+        <instance_id>c6c131ce1b713154fe1b43f4bd4bcb48</instance_id>
+        <instance_name>dev183373</instance_name>
+        <name>sys_ui_form_sections_2b6f71de83321210712fc296feaad385</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="2b6f71de83321210712fc296feaad385" sys_domain="global" table="x_185825_inst_mang_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-02 02:34:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e76f71de83321210712fc296feaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_185825_inst_mang_request" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">2b6f71de83321210712fc296feaad385</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">236f71de83321210712fc296feaad389</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-02 02:34:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-02 02:34:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a36f71de83321210712fc296feaad398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_185825_inst_mang_request" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">2b6f71de83321210712fc296feaad385</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_185825_inst_mang_request" sys_domain="global" view="Default view">236f71de83321210712fc296feaad394</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-02 02:34:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_185825_inst_mang_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-02 02:34:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b6f71de83321210712fc296feaad385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_185825_inst_mang_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2b6f71de83321210712fc296feaad385</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-02 02:34:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>]]></payload>
+        <payload_hash>-209500870</payload_hash>
+        <record_name>Instrument Management Request</record_name>
+        <reverted_from/>
+        <source>ab4763ca83435610712fc296feaad38b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 01:46:18</sys_created_on>
+        <sys_id>5d77234e83435610712fc296feaad3fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194627d7a970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 01:46:18</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>1977234e72435610482f51fbae776afc</update_guid>
+        <update_guid_history>1977234e72435610482f51fbae776afc:0,51390212d1b212103576f9aea7c9ed65:173976553,2b6f71de9c321210624f2f2a34cbca99:-1637207988,a76f71de523212104ec3d525ecc39b87:-1313393414</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 01:51:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>c7314d254b4946c08c84856be2a99000</sys_id>
+        <sys_metadata>2b6f71de83321210712fc296feaad385</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_185825_inst_mang_request</sys_name>
+        <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+        <sys_parent display_value="">d75f7d9e83321210712fc296feaad393</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_scope_delete display_value="">004975b4ee454d0f800047d953445799</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_2b6f71de83321210712fc296feaad385</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_2b6f71de83321210712fc296feaad385">5d77234e83435610712fc296feaad3fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 01:51:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

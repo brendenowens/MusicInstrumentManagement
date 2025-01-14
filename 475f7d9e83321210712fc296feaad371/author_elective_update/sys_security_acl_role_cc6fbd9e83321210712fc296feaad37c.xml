@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 02:34:20</sys_created_on>
+        <sys_id>cc6fbd9e83321210712fc296feaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_185825_inst_mang_request.x_185825_inst_mang.agent</sys_name>
+        <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_security_acl display_value="x_185825_inst_mang_request">bf5fbd9e83321210712fc296feaad377</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cc6fbd9e83321210712fc296feaad37c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-02 02:34:20</sys_updated_on>
+        <sys_user_role display_value="x_185825_inst_mang.agent" name="x_185825_inst_mang.agent">f35fbd9e83321210712fc296feaad372</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Instrument Management">475f7d9e83321210712fc296feaad371</application>
+        <file_path/>
+        <instance_id>c6c131ce1b713154fe1b43f4bd4bcb48</instance_id>
+        <instance_name>dev183373</instance_name>
+        <name>sys_security_acl_role_cc6fbd9e83321210712fc296feaad37c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 02:34:20</sys_created_on>
+        <sys_id>cc6fbd9e83321210712fc296feaad37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_185825_inst_mang_request.x_185825_inst_mang.agent</sys_name>
+        <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_security_acl display_value="x_185825_inst_mang_request">bf5fbd9e83321210712fc296feaad377</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cc6fbd9e83321210712fc296feaad37c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-02 02:34:20</sys_updated_on>
+        <sys_user_role display_value="x_185825_inst_mang.agent" name="x_185825_inst_mang.agent">f35fbd9e83321210712fc296feaad372</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1738064586</payload_hash>
+        <record_name>x_185825_inst_mang_request.x_185825_inst_mang.agent</record_name>
+        <reverted_from/>
+        <source>ab4763ca83435610712fc296feaad38b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 01:46:17</sys_created_on>
+        <sys_id>1977234e83435610712fc296feaad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194627d79740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 01:46:17</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d177234ee8435610d8322ab2a282efe8</update_guid>
+        <update_guid_history>d177234ee8435610d8322ab2a282efe8:0,6c39cedebb721210cc6b7684be724247:-1133527617,046fbd9eb13212103d9a63026d117980:-1419228880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_185825_inst_mang_request.x_185825_inst_mang.agent">2c986f8e83435610712fc296feaad3eb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 01:51:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1431eebfc4ec4d8eac62d44c0bb9c619</sys_id>
+        <sys_metadata>cc6fbd9e83321210712fc296feaad37c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_185825_inst_mang_request.x_185825_inst_mang.agent</sys_name>
+        <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+        <sys_parent display_value="">bf5fbd9e83321210712fc296feaad377</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_scope_delete display_value="">004975b4ee454d0f800047d953445799</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_cc6fbd9e83321210712fc296feaad37c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_cc6fbd9e83321210712fc296feaad37c">1977234e83435610712fc296feaad3e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 01:51:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

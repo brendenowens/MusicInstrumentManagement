@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Catalog that holds all requests related to instrument management</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-14 01:57:29</sys_created_on>
+        <sys_id>ce892f0283835610712fc296feaad309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Instument Catalog</sys_name>
+        <sys_package display_value="Instrument Management" source="x_185825_inst_mang">475f7d9e83321210712fc296feaad371</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instrument Management">475f7d9e83321210712fc296feaad371</sys_scope>
+        <sys_update_name>sc_catalog_ce892f0283835610712fc296feaad309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-14 01:57:29</sys_updated_on>
+        <title>Instument Catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce892f0283835610712fc296feaad309"/>
+</record_update>
